@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bdd5bc74506914259a2696e1e858453e
+timeCreated: 1517154314
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Sue Ellen Francisco '
+  fontNames:
+  - 'Sue Ellen Francisco '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
